@@ -13,8 +13,8 @@ annotations:
     imgnum: 867
     reference: ''
     span:
-      start: 714
-      end: 1250
+      start: 713
+      end: 1248
 local_ids:
   49d47c33701b48d5be6456395462a0c6: 200000
   9d33a69497404736b43c6923657dd291: 200001
